@@ -1,1 +1,1 @@
-# Dicegame.com
+# Dicegame
